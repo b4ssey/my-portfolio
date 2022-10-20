@@ -1,10 +1,10 @@
 {
-  "name": "Gatsby Starter For Portfolio Minimal",
-  "email": "example@mail.com",
-  "description": "If you have any problems with this theme, create an issue in the GitHub repository.",
+  "name": "Contact Me If You Have Any Projects",
+  "email": "mail@ekemini.tech",
+  "description": "I am always interested in developing applications, cybersecurity, cloud computing.",
   "image": {
-    "src": "../../images/favicon.png",
-    "alt": "Gatsby Logo"
+    "src": "../../images/faviconv3.png",
+    "alt": "Ekemini programming"
   },
   "socialProfiles": {
     "from": ["LinkedIn", "Medium", "Github", "Mail"],
