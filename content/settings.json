@@ -1,23 +1,23 @@
 {
   "siteMetadata": {
     "language": "en",
-    "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
-    "title": "Gatsby Starter for Portfolio Minimal",
-    "titleTemplate": "%s · Portfolio Minimal",
-    "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
-    "author": "Konstantin Münster",
+    "siteUrl": "https://ekemini.tech/",
+    "title": "Ekemini -- Portfolio",
+    "titleTemplate": "%s · Portfolio",
+    "description": "Ekemini Bassey - Application Security Engineer",
+    "author": "Ekemini Bassey",
     "avatar": "../content/images/gatsby.png",
-    "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
+    "bio": "Ekemini specializes in Software Development, Application Security & Cloud Computing.",
     "social": {
       "behance": "https://behance.com",
-      "github": "https://github.com/konstantinmuenster",
-      "medium": "https://konstantinmuenster.medium.com",
-      "linkedin": "https://www.linkedin.com/in/konstantin-muenster/",
-      "mail": "mailto:mail@konstantin.digital"
+      "github": "https://github.com/b4ssey",
+      "medium": "https://medium.com/@b4ssey",
+      "linkedin": "https://www.linkedin.com/in/e-bassey/",
+      "mail": "mailto:mail@ekemini.tech"
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Portfolio" },
+    "logo": { "text": "ekemini.tech" },
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
@@ -28,7 +28,7 @@
       "ctaButton": {
         "openNewTab": true,
         "label": "Resume",
-        "url": "/resume.pdf"
+        "url": "https://docs.google.com/document/d/1unQeatuXTu5x2q_ihVhai7ki2xPcWdrp-vBdM-QZ-uo/edit?usp=sharing"
       },
       "footer": [
         { "label": "Privacy", "url": "/privacy" },
