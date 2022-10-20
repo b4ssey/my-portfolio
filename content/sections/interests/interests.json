@@ -1,59 +1,59 @@
 {
   "interests": [
     {
-      "label": "Quick and Easy Setup",
+      "label": "Software Development",
       "image": {
-        "src": "../../images/joystick.png",
-        "alt": ""
+        "src": "../../images/software.png",
+        "alt": "software development"
       }
     },
     {
-      "label": "Content via Markdown",
+      "label": "Malware Analysis",
       "image": {
-        "src": "../../images/notebook.png",
-        "alt": ""
+        "src": "../../images/secure.png",
+        "alt": "Malware Analysis"
       }
     },
     {
-      "label": "Responsive Design",
+      "label": "Team Collaboration",
       "image": {
-        "src": "../../images/nail-polish.png",
-        "alt": ""
+        "src": "../../images/team.png",
+        "alt": "Team Collaboration"
       }
     },
     {
-      "label": "Medium Integration",
+      "label": "Customer Collaboration",
       "image": {
-        "src": "../../images/medium.png",
-        "alt": ""
+        "src": "../../images/user.png",
+        "alt": "Customer Collaboration"
       }
     },
     {
-      "label": "Animations",
+      "label": "Attention To Detail",
       "image": {
-        "src": "../../images/gem-stone.png",
-        "alt": ""
+        "src": "../../images/search.png",
+        "alt": "Attention To Detail"
       }
     },
     {
-      "label": "PWA (Offline Support)",
+      "label": "Web Security",
       "image": {
-        "src": "../../images/mobile-phone.png",
-        "alt": ""
+        "src": "../../images/security.png",
+        "alt": "Web Security"
       }
     },
     {
-      "label": "Modern Tech-Stack",
+      "label": "DevSecOps",
       "image": {
-        "src": "../../images/gatsby.png",
-        "alt": ""
+        "src": "../../images/cloud.png",
+        "alt": "DevSecOps"
       }
     },
     {
-      "label": "Blazing Fast",
+      "label": "Capture-The-Flag",
       "image": {
-        "src": "../../images/high-voltage.png",
-        "alt": ""
+        "src": "../../images/treasure.png",
+        "alt": "Capture-The-Flag"
       }
     }
   ],

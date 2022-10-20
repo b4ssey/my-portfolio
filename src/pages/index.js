@@ -25,7 +25,7 @@ export default function IndexPage() {
         <InterestsSection sectionId="details" heading="Details" />
         <ProjectsSection sectionId="features" heading="Built-in Features" />
         <ContactSection
-          sectionId="github"
+          sectionId="contact"
           heading="Hope to hear from you soon, Cheers!"
         />
       </Page>
