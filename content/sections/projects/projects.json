@@ -2,19 +2,40 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "category": "📝 Taski",
+      "title": "A Todo List",
+      "description": "I built a to-do list app to stay up to date on the newest software technologies, and get more technical knowledge.",
+      "tags": ["React Native", "Express", "Node.js", "MongoDB"],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
-        "alt": "Quick Setup",
-        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+        "src": "../../images/taski-png.png",
+        "alt": "Ekemini's Taski Repo",
+        "linkTo": "https://github.com/b4ssey/Taski"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/b4ssey/Taski"
+        },
+        {
+          "type": "external",
+          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+        }
+      ]
+    },{
+      "visible": false,
+      "category": "For Test",
+      "title": "A Todo List",
+      "description": "I built a to-do list app to stay up to date on the newest software technologies, and get more technical knowledge.",
+      "tags": ["React Native", "Express", "Node.js", "MongoDB"],
+      "image": {
+        "src": "../../images/taski-png.png",
+        "alt": "Ekemini's Taski Repo",
+        "linkTo": "https://github.com/b4ssey/Taski"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/b4ssey/Taski"
         },
         {
           "type": "external",
@@ -24,18 +45,18 @@
     },
     {
       "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "category": "📱 Socialie",
+      "title": "Social media List (Development)",
+      "description": "I developed a social media app to be kept abreast of the latest software technologies, improve my application lifecycle handling, and gain more technical experience.",
+      "tags": ["AWS", "Redux"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
+        "src": "../../images/socialie-png.png",
         "alt": "Extendable Layout"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/b4ssey/Socialie"
         }
       ]
     }
