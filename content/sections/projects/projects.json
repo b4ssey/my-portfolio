@@ -60,8 +60,7 @@
         }
       ]
     }
-  ]
-  ,
+  ],
   "button": {
     "visible": false,
     "label": "Visit on Github",

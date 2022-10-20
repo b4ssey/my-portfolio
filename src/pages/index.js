@@ -23,7 +23,7 @@ export default function IndexPage() {
         /> */}
         <AboutSection sectionId="about" heading="About Me" />
         <InterestsSection sectionId="details" heading="Skills & Interests" />
-        <ProjectsSection sectionId="features" heading="Projects" />
+        <ProjectsSection sectionId="projects" heading="Projects" />
         <ContactSection
           sectionId="contact"
           heading="Hope to hear from you soon, Cheers!"
