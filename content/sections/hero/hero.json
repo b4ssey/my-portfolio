@@ -8,13 +8,13 @@
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "I'm a Gatsby Starter",
+  "title": "I'm Ekemini Bassey",
   "subtitle": {
-    "prefix": "I do all the setup ",
-    "highlight": "for you",
-    "suffix": "."
+    "prefix": "I hack softwares ",
+    "highlight": "the right way",
+    "suffix": " !"
   },
-  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+  "description": "Software Development -- CyberSecurity -- Cloud Computing.",
   "socialProfiles": {
     "from": ["LinkedIn", "Medium", "Github", "Mail"],
     "showIcons": true
