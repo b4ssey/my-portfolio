@@ -4,7 +4,7 @@ module.exports = {
     {
       resolve: "gatsby-theme-portfolio-minimal",
       options: {
-        siteUrl: "https://gatsby-starter-portfolio-minimal-theme.netlify.app/", // Used for sitemap generation
+        siteUrl: "https://ekemini.tech/", // Used for sitemap generation
         manifestSettings: {
           favicon: "./content/images/faviconv2.png", // Path is relative to the root
           siteName: "My Minimal Portfolio", // Used in manifest.json
