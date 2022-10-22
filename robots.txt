@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://ekemini.tech/my-portfolio/sitemap/sitemap-index.xml
+Sitemap: https://ekemini.tech/sitemap/sitemap-index.xml
 Host: https://ekemini.tech
