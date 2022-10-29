@@ -1,14 +1,5 @@
 # dependencies
-node_modules/*
-!/node_modules/gatsby-theme-portfolio-minimal
-/node_modules/gatsby-theme-portfolio-minimal/*
-!/node_modules/gatsby-theme-portfolio-minimal/src
-/node_modules/gatsby-theme-portfolio-minimal/src/components
-/node_modules/gatsby-theme-portfolio-minimal/src/gatsby
-/node_modules/gatsby-theme-portfolio-minimal/src/globalStyles
-/node_modules/gatsby-theme-portfolio-minimal/src/hooks
-/node_modules/gatsby-theme-portfolio-minimal/src/context
-
+node_modules
 /.pnp
 .pnp.js
 
