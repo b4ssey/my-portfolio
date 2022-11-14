@@ -21,7 +21,8 @@
           "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
         }
       ]
-    },{
+    },
+    {
       "visible": false,
       "category": "For Test",
       "title": "A Todo List",
@@ -36,10 +37,6 @@
         {
           "type": "github",
           "url": "https://github.com/b4ssey/Taski"
-        },
-        {
-          "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
         }
       ]
     },
@@ -57,6 +54,10 @@
         {
           "type": "github",
           "url": "https://github.com/b4ssey/Socialie"
+        },
+        {
+          "type": "external",
+          "url": "https://https://socialie.herokuapp.com/api-docs/"
         }
       ]
     }
