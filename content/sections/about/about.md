@@ -1,5 +1,5 @@
 ---
-imageSrc: "../../images/ekemini-long.jpg"
+imageSrc: "../../images/ekemini-long.png"
 videoSrc: "https://user-images.githubusercontent.com/42721358/198304467-78f16a34-c925-444e-b280-330da05e8820.mp4"
 imageAlt: "About Me"
 ---
