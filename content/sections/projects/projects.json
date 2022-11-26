@@ -15,10 +15,6 @@
         {
           "type": "github",
           "url": "https://github.com/b4ssey/Taski"
-        },
-        {
-          "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
         }
       ]
     },
@@ -57,7 +53,7 @@
         },
         {
           "type": "external",
-          "url": "https://https://socialie.herokuapp.com/api-docs/"
+          "url": "https://socialie.herokuapp.com/api-docs/"
         }
       ]
     }
